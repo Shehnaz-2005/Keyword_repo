@@ -24,7 +24,7 @@
 14. **Bare Metal**- Fresh server without an OS/applications.
 15. **Hypervisor**- A software which creates virtual machines
     - Type 1: Directly installed on bare metal
-        -Eg: KVM(Kernel-based virtual machine)
+        - Eg: KVM(Kernel-based virtual machine)
     - Type 2: Installed over a host OS
         - Eg: VMware(closed source), Virtual Box(open source)
 16. **Virtual Machine**- Acts like computer within a computer, virtualization of a computer.
