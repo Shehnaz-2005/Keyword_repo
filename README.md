@@ -29,4 +29,8 @@
         - Eg: VMware(closed source), Virtual Box(open source)
 16. **Virtual Machine**- Acts like computer within a computer, virtualization of a computer.
 17. **SSL(Secure Socket Layer)/Tunnel**- IP address + Port number
-18. Port Number
+18. **Port Number**
+    - FTP: 20, 21
+    - HTTP: 80
+    - HTTPS: 443
+    - STMP: 25
