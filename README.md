@@ -33,5 +33,9 @@
     - FTP: 20, 21
     - HTTP: 80
     - HTTPS: 443
-    - STMP: 25
-19. ****
+    - SMTP: 25
+    - DNS: 53
+    - Telnet: 23
+19. **TLS(Transport Layer Security)**- A secure tunnel between user and web server.
+20. **UDP(User Datagram Protocol)**- A communications protocol used to send messages to other hosts on an IP network. Within an IP network, UDP doesn't require prior communication to set up communication channels or data paths.
+21. **IAM(Identity and Access Management)**- 
